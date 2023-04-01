@@ -7,6 +7,7 @@ I will be using [Micrsoft's Sample Northwind Database](https://learn.microsoft.c
 The question's I will be answering have been pulled from several different sources including:
 - [Source 1](https://www.amazon.com/SQLPractice-Problems-learn-doing/dp/1540422658)
 - [Source 2](https://musiliadebayo.medium.com/50-sql-practice-queries-and-answers-3fc896650b2e)
+- I will also be using [StrataScratch](https://platform.stratascratch.com/coding?code_type=3) which has various interview questions. 
 
 ### Question 1
 For their annual review of the company pricing strategy, the Product Team wants to look at the products that are currently being offered for a specific price range ($20 to $50). In order to help them they asked you to provide them with a list of products with the following information:
